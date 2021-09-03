@@ -1,0 +1,19 @@
+
+body{
+    background-color: skyblue;
+}
+
+#heading{
+    color: red;
+    margin-left: 30%;
+}
+
+.fruits{
+    color: yellow;
+    size: 50;
+}
+
+li:hover{
+    size: 80;
+    color: pink;
+}
